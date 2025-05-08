@@ -22,9 +22,6 @@ STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
 
-DEVELOPED BY:NARRA RAMYA
-
-REG NO:212223040128
 
 ```
 import seaborn as sns
